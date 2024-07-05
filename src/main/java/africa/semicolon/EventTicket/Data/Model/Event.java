@@ -13,5 +13,5 @@ public class Event {
     private String description;
     private Date startDate;
     private Date endDate;
-    private TicketCategory ticketCategory;
+    private EventCategory eventCategory;
 }

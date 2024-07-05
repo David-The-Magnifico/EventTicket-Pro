@@ -12,5 +12,6 @@ public class Ticket {
     private int quantity;
     private double price;
     private Discount discount;
+    private TicketCategory ticketCategory;
 
 }
